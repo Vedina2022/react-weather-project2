@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <Weather />
+        <Weather defaultCity="Mykolaiv" />
         <footer>
           This project was coded by Nadiia Kyshinska and
           <a href="https://github.com/Vedina2022/react-weather-project2">
