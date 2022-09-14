@@ -31,10 +31,8 @@
   line-height: 64px;
   font-weight: 400;
 }
-.Weather img {
-  width: 64px;
-  height: 64px;
-  margin-bottom: 20px;
+.Weather canvas {
+  margin-top: 15px;
   margin-right: 10px;
 }
 .Weather .unit {
